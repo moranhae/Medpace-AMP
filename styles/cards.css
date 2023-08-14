@@ -133,10 +133,9 @@
 
 .entry-point-card-headline {
   color: #fff;
-  font-weight: 700;
-  font-family: "Poppins", sans-serif;
+  font-family: "din-condensed", sans-serif;
   text-transform: uppercase;
-  font-size: 24px;
+  font-size: 1.4rem;
   line-height: 26px;
 }
 
